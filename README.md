@@ -1,2 +1,2 @@
 # AluraJavascript
-Estudando listas Arrays
+Estudando listas Arrays while
